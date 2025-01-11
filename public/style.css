@@ -1,0 +1,22 @@
+h1 {
+    background-color: rgb(8, 68, 74);
+    color: rgb(203, 206, 210);
+}
+
+.post {
+    text-align:center ;
+    
+    width: 200px;
+      border:10px solid rgb(134, 209, 59);
+      padding: 40px;
+      margin: auto;
+      margin-bottom: 20px;
+      
+    background-color: rgb(41, 11, 176);
+}
+
+.user {
+    font-size: medium;
+}
+
+

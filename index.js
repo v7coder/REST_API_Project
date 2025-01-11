@@ -24,7 +24,7 @@ app.use(express.static(path.join(__dirname, "public")));
 // Posts Data Created:
 let posts = [{
                id : uuidv4(),
-              username : "Vinayak7",
+              username : "Vinay7",
               content : "Position SDE-I Selected "
                },
                {
